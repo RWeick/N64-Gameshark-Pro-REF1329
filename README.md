@@ -1,0 +1,2 @@
+# N64-Gameshark-Pro-REF1329
+An optimized PCB for the N64 Gameshark Pro. This revision has full parallel port functionality.
