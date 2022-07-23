@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2)"
     },
-    "CreationDate": "2022-05-11T16:43:43-05:00"
+    "CreationDate": "2022-07-22T23:45:13-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "REF1329_Optimised",
-      "GUID": "52454631-3332-4395-9f4f-7074696d6973",
+      "Name": "REF1329_Optimized",
+      "GUID": "52454631-3332-4395-9f4f-7074696d697a",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "REF1329_Optimised-F_Cu.gbr",
+      "Path": "REF1329_Optimized-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "REF1329_Optimised-B_Cu.gbr",
+      "Path": "REF1329_Optimized-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "REF1329_Optimised-F_Paste.gbr",
+      "Path": "REF1329_Optimized-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "REF1329_Optimised-B_Paste.gbr",
+      "Path": "REF1329_Optimized-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "REF1329_Optimised-F_Silkscreen.gbr",
+      "Path": "REF1329_Optimized-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "REF1329_Optimised-B_Silkscreen.gbr",
+      "Path": "REF1329_Optimized-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "REF1329_Optimised-F_Mask.gbr",
+      "Path": "REF1329_Optimized-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "REF1329_Optimised-B_Mask.gbr",
+      "Path": "REF1329_Optimized-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "REF1329_Optimised-Edge_Cuts.gbr",
+      "Path": "REF1329_Optimized-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
