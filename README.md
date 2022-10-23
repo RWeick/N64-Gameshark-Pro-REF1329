@@ -5,4 +5,4 @@ The LZ9FC17 GALs are the only unique piece of this device at this time, and they
 
 PCB Thickness: 1.2 mm
 
-![image](https://github.com/Modman/N64-Gameshark-Pro-REF1329/blob/main/REF1329-Optimized.png)
+![image](https://github.com/Modman/N64-Gameshark-Pro-REF1329/blob/main/REF1329-GS.png)
