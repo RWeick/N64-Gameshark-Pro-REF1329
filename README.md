@@ -3,7 +3,7 @@ An optimized PCB for the N64 Gameshark Pro as well as the full schematic. This r
 
 The LZ9FC17 GALs are the same between PCB revisions. If you have a Gameshark with a Smart Card port on the back, you can migrate everything to this PCB and have a working parallel port. 
 
-I have fully reverse engineered the LZ9FC17 GAL and implemented it in the [N64 Gameshark Clone] (https://github.com/RWeick/REF1329-N64-Gameshark-Clone). 
+I have fully reverse engineered the LZ9FC17 GAL and implemented it in the [N64 Gameshark Clone](https://github.com/RWeick/REF1329-N64-Gameshark-Clone). 
 
 PCB Thickness: 1.2 mm
 
